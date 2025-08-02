@@ -1,1 +1,3 @@
-# discord-cooldown-fix-sniper
+herkes fixledim fixledim diye geçiniyor yaptığınız hataydı kimseye fixledim dememeliydiniz kendinizi yükseltmiyordunuz aksine alçaltıyordunuz teorik olarakda bazı insanlar hiç kimse fixlemedi diye bir iddia ortaya sundu
+:D aynen öyle herkesde buna ortak oldu görüceğiz bekleyin yakında herşey public olucak yeni fix falan olmayacak ilk once butun herkes fixleyecek ondan sonra mtler public olucak her zaman olduğu gibi buna alışmanız gerekiyordu
+her fixde oldugu gibi mfadada böyle olmuştu sadece sabırlı olun andaval gibi takılabilirsiniz mtler public olana kadar gerçekleri duymak size bukadar acı gelmesin.

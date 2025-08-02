@@ -1,3 +1,3 @@
-Herkes "fixledim, fixledim" diye geziyor ama yaptığınız şey aslında bir hataydı. Kimseye "fixledim" dememeliydiniz; kendinizi yükseltmiyorsunuz, aksine küçük düşürüyorsunuz.
-Bazı insanlar "Bizi kimse fixlemedi" diye iddialar ortaya atıyor, herkes de bu fikre katıldı. Yakında her şeyin public olacağını göreceksiniz. Yeni bir fix olmayacak. Önce herkes fixleyecek, sonra metalar (MT'ler) public olacak.
-Her zaman olduğu gibi buna alışmanız gerekiyor. Daha önceki tüm fixlerde ve MFA döneminde de bu şekilde olmuştu. Sadece sabırlı olun. Metalar public olana kadar boş konuşabilirsiniz ama gerçekleri duymak bu kadar zor gelmesin.
+Herkes "Fixledim fixledim" diye geçiniyor. Yaptığınız hataydı. Kimseye "fixledim" dememeliydiniz. Kendinizi yükseltmiyordunuz, aksine alçaltıyordunuz. Teorik olarak da bazı insanlar "Hiç kimse fixlemedi" diye bir iddia ortaya sundu.
+:D Aynen öyle, herkes de buna ortak oldu. Göreceğiz, bekleyin. Yakında her şey public olacak. Yeni fix falan olmayacak. İlk önce bütün herkes fixleyecek, ondan sonra MT'ler public olacak.
+Her zaman olduğu gibi buna alışmanız gerekiyordu. Her fixte olduğu gibi MFA'da da böyle olmuştu. Sadece sabırlı olun. Andaval gibi takılabilirsiniz MT'ler public olana kadar. Gerçekleri duymak size bu kadar acı gelmesin.
